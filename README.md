@@ -2,7 +2,7 @@
 
 Персональная подготовка к собеседованию по конкретной вакансии.
 
-[Скачать для Windows](https://github.com/GalievGleb/SkillCue/releases/latest) · [Сайт](https://skill-cue.ru/) · [Поддержка](https://t.me/SkillCue_support_bot)
+[Скачать для Windows](https://github.com/GalievGleb/SkillCue/releases/latest) · [Сайт](https://skill-cue.ru/) · [English overview](https://skill-cue.ru/en/) · [Поддержка @SkillCue](https://t.me/SkillCue)
 
 > SkillCue находится на стадии работающего MVP перед публичным запуском. Сейчас проект готовится к первым внешним тестировщикам.
 
@@ -70,4 +70,4 @@ SkillCue is a working pre-launch Windows MVP. Completed speech fragments are sen
 
 ---
 
-© 2026 SkillCue · [Website](https://skill-cue.ru/) · [Telegram support](https://t.me/SkillCue_support_bot)
+© 2026 SkillCue · [Website](https://skill-cue.ru/) · [Telegram support @SkillCue](https://t.me/SkillCue)

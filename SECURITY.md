@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Send a private report to `galievgleb99@gmail.com` with:
+Send a private report in Telegram to [@SkillCue](https://t.me/SkillCue) with:
 
 - affected SkillCue version;
 - Windows version;
@@ -19,4 +19,3 @@ Never include real API keys, passwords, activation keys, access tokens, payment 
 ## Scope
 
 Good-faith reports about the published SkillCue installer, update flow, local application boundary, or public website are welcome. Denial-of-service testing, social engineering, accessing other people's data, and tests that violate provider terms are out of scope.
-
